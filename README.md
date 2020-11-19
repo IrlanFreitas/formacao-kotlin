@@ -8,7 +8,7 @@ Futuramente será descrito todos os cursos e passo-a-passo do que está sendo fe
 
 ## 1. Orientação a Objetos
 
-- [ ] **Kotlin: Primeiros passos e Orientação a Objetos**
+- [x] **Kotlin: Primeiros passos e Orientação a Objetos**
 - [ ] **Kotlin: Herança, polimorfismo e Interface**
 - [ ] **Kotlin: Recursos da linguagem com pacotes e composição**
 - [ ] Conhecendo a classe Number do Kotlin
